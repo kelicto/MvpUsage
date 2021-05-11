@@ -1,6 +1,6 @@
 ﻿namespace KeLi.MvpUsage.App.Views
 {
-    partial class UserLoginView
+    partial class UserLoginFrm
     {
         /// <summary>
         /// Required designer variable.
